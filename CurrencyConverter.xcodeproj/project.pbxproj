@@ -10,8 +10,8 @@
 		E21C0C20205EB405001DAE94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21C0C1F205EB405001DAE94 /* AppDelegate.swift */; };
 		E21C0C22205EB405001DAE94 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21C0C21205EB405001DAE94 /* ViewController.swift */; };
 		E21C0C25205EB405001DAE94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E21C0C23205EB405001DAE94 /* Main.storyboard */; };
-		E21C0C27205EB405001DAE94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E21C0C26205EB405001DAE94 /* Assets.xcassets */; };
 		E21C0C2A205EB405001DAE94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E21C0C28205EB405001DAE94 /* LaunchScreen.storyboard */; };
+		E21C0C32205EB496001DAE94 /* pound-yen-euro-dollar.png in Resources */ = {isa = PBXBuildFile; fileRef = E21C0C31205EB496001DAE94 /* pound-yen-euro-dollar.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +19,9 @@
 		E21C0C1F205EB405001DAE94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E21C0C21205EB405001DAE94 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E21C0C24205EB405001DAE94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E21C0C26205EB405001DAE94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E21C0C29205EB405001DAE94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E21C0C2B205EB405001DAE94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E21C0C31205EB496001DAE94 /* pound-yen-euro-dollar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pound-yen-euro-dollar.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +57,8 @@
 				E21C0C1F205EB405001DAE94 /* AppDelegate.swift */,
 				E21C0C21205EB405001DAE94 /* ViewController.swift */,
 				E21C0C23205EB405001DAE94 /* Main.storyboard */,
-				E21C0C26205EB405001DAE94 /* Assets.xcassets */,
 				E21C0C28205EB405001DAE94 /* LaunchScreen.storyboard */,
+				E21C0C31205EB496001DAE94 /* pound-yen-euro-dollar.png */,
 				E21C0C2B205EB405001DAE94 /* Info.plist */,
 			);
 			path = CurrencyConverter;
@@ -124,7 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E21C0C2A205EB405001DAE94 /* LaunchScreen.storyboard in Resources */,
-				E21C0C27205EB405001DAE94 /* Assets.xcassets in Resources */,
+				E21C0C32205EB496001DAE94 /* pound-yen-euro-dollar.png in Resources */,
 				E21C0C25205EB405001DAE94 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
